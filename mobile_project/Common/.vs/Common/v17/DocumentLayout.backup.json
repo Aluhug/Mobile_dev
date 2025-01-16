@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\Common\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D3AB0-08C3-4460-BB40-0B3E1FC4543C}|..\\WPFApp\\WPFApp.csproj|c:\\users\\aluhug\\desktop\\mobile_dev_cursach-master\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D3AB0-08C3-4460-BB40-0B3E1FC4543C}|..\\WPFApp\\WPFApp.csproj|c:\\users\\aluhug\\desktop\\mobile_dev_cursach-master\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9D3AB0-08C3-4460-BB40-0B3E1FC4543C}|..\\WPFApp\\WPFApp.csproj|c:\\users\\aluhug\\desktop\\mobile_dev_cursach-master\\wpfapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C731391-BF26-4355-8F22-350ABDE014C4}|Common.csproj|c:\\users\\aluhug\\desktop\\mobile_dev_cursach-master\\common\\overlaylayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C731391-BF26-4355-8F22-350ABDE014C4}|Common.csproj|solutionrelative:overlaylayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C731391-BF26-4355-8F22-350ABDE014C4}|Common.csproj|c:\\users\\aluhug\\desktop\\mobile_dev_cursach-master\\common\\overlaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C731391-BF26-4355-8F22-350ABDE014C4}|Common.csproj|solutionrelative:overlaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C731391-BF26-4355-8F22-350ABDE014C4}|Common.csproj|c:\\users\\aluhug\\desktop\\mobile_dev_cursach-master\\common\\globalsuppressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C731391-BF26-4355-8F22-350ABDE014C4}|Common.csproj|solutionrelative:globalsuppressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\ConsoleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:42:58.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\WPFApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\WPFApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\WPFApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\WPFApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:42:52.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\WPFApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "..\\WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T21:40:02.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\App.xaml",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\App.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-06T21:20:38.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-06T21:16:22.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0418\u0432\u0430\u043D\\source\\common\\WPFApp\\MainWindow.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:16:22.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0418\u0432\u0430\u043D\\source\\common\\ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D\\source\\common\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0418\u0432\u0430\u043D\\source\\common\\ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:26:10.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalSuppressions.cs",
+              "DocumentMoniker": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\Common\\GlobalSuppressions.cs",
+              "RelativeDocumentMoniker": "GlobalSuppressions.cs",
+              "ToolTip": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\Common\\GlobalSuppressions.cs",
+              "RelativeToolTip": "GlobalSuppressions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:15:38.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OverlayLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\Common\\OverlayLayer.cs",
+              "RelativeDocumentMoniker": "OverlayLayer.cs",
+              "ToolTip": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\Common\\OverlayLayer.cs",
+              "RelativeToolTip": "OverlayLayer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:13:06.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OverlayManager.cs",
+              "DocumentMoniker": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\Common\\OverlayManager.cs",
+              "RelativeDocumentMoniker": "OverlayManager.cs",
+              "ToolTip": "C:\\Users\\Aluhug\\Desktop\\mobile_dev_cursach-master\\Common\\OverlayManager.cs",
+              "RelativeToolTip": "OverlayManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:09:46.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

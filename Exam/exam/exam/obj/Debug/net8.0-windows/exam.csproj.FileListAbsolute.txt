@@ -1,0 +1,16 @@
+C:\Users\Aluhug\Desktop\Exam\exam\exam\bin\Debug\net8.0-windows\exam.exe
+C:\Users\Aluhug\Desktop\Exam\exam\exam\bin\Debug\net8.0-windows\exam.deps.json
+C:\Users\Aluhug\Desktop\Exam\exam\exam\bin\Debug\net8.0-windows\exam.runtimeconfig.json
+C:\Users\Aluhug\Desktop\Exam\exam\exam\bin\Debug\net8.0-windows\exam.dll
+C:\Users\Aluhug\Desktop\Exam\exam\exam\bin\Debug\net8.0-windows\exam.pdb
+C:\Users\Aluhug\Desktop\Exam\exam\exam\obj\Debug\net8.0-windows\exam.Form1.resources
+C:\Users\Aluhug\Desktop\Exam\exam\exam\obj\Debug\net8.0-windows\exam.csproj.GenerateResource.cache
+C:\Users\Aluhug\Desktop\Exam\exam\exam\obj\Debug\net8.0-windows\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluhug\Desktop\Exam\exam\exam\obj\Debug\net8.0-windows\exam.AssemblyInfoInputs.cache
+C:\Users\Aluhug\Desktop\Exam\exam\exam\obj\Debug\net8.0-windows\exam.AssemblyInfo.cs
+C:\Users\Aluhug\Desktop\Exam\exam\exam\obj\Debug\net8.0-windows\exam.csproj.CoreCompileInputs.cache
+C:\Users\Aluhug\Desktop\Exam\exam\exam\obj\Debug\net8.0-windows\exam.dll
+C:\Users\Aluhug\Desktop\Exam\exam\exam\obj\Debug\net8.0-windows\refint\exam.dll
+C:\Users\Aluhug\Desktop\Exam\exam\exam\obj\Debug\net8.0-windows\exam.pdb
+C:\Users\Aluhug\Desktop\Exam\exam\exam\obj\Debug\net8.0-windows\exam.genruntimeconfig.cache
+C:\Users\Aluhug\Desktop\Exam\exam\exam\obj\Debug\net8.0-windows\ref\exam.dll
